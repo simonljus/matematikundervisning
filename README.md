@@ -107,3 +107,6 @@ Lista med material relaterat till matematikundervisning
 * [Scratch](https://scratch.mit.edu) Visuellt programmeringsspråk där man skriver kod med block
 * [Code.org](https://code.org) Interaktiva spel i Scratch
 * [p5.js](https://p5js.org) Javascript bibliotek för kreativt skapande
+
+## Licens
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

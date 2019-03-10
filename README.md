@@ -39,6 +39,7 @@ Lista med material relaterat till matematikundervisning
 * [WebMath](http://www.webmath.se)
 * [Räkna med mig](http://raknamedmig.blogspot.com)
 * [Math Online](http://www.mathonline.se:1800)
+* [Vidma - Videogenomgångar i matematik](https://vidma.se)
 
 ## Verktyg 
 * [GeoGebra](https://www.geogebra.org)
@@ -95,6 +96,7 @@ Lista med material relaterat till matematikundervisning
 
 ## På andra språk
 * [Resurser för undervisning i modersmål - Skolverket](https://www.skolverket.se/skolutveckling/inspiration-och-stod-i-arbetet/stod-i-arbetet/resurser-for-undervisning-i-modersmal#h-Matematikbegreppochandramaterialforundervisningimatematik)
+* [Studi Sverige](https://www.studi.se)
 * [Khan Academy](https://www.khanacademy.org)
 * [webbmatte.se | Matematik på flera språk](http://www.webbmatte.se)
 * [Matteboken Arabiska - Mattecentrum](https://arabiska.matteboken.se) 
